@@ -36,10 +36,6 @@ Ousmane Kone, S., Cadot, V., Vincke, D., Treier, S., Mascher, N., Maigniel, J-P.
 *Automated detection of Fusarium Head blight symptoms on wheat spikes using Deep Learning on field RGB imaging.*  
 **Poster** — European Plant Phenomics Symposium (EPPS), Bonn, 16–19 septembre 2025.
 
-**BYDV (orge)**  
-(Adapté du poster correspondant) *Development of deep learning models to detect and quantify symptoms of Barley Yellow Dwarf Virus in barley using RGB images.*  
-**Poster** — EPPS 2025.
-
 ---
 
 ## 👤 Contact
