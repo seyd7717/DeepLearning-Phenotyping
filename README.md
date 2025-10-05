@@ -12,7 +12,7 @@ Ce dépôt rassemble **deux posters** de recherche présentant l'application de 
 
 ---
 
-## 🔎 Points saillants (non confidentiels)
+## Points saillants (non confidentiels)
 
 **FHB (blé)**  
 - Imagerie RGB de terrain, annotations d'épis (*sain* / *symptômes FHB*).  
@@ -24,45 +24,18 @@ Ce dépôt rassemble **deux posters** de recherche présentant l'application de 
 - Deux approches évaluées : **YOLO** (détection) vs **CNN** (classification).  
 - Performances compétitives ; **CNN** = pipeline plus simple selon l'usage.
 
-> ℹ️ Le **code n'est pas public** pour raisons de confidentialité. Ce dépôt diffuse les posters et un résumé de haut niveau des méthodes et résultats.
+
 
 ---
 
-## 📚 Références (posters)
+## Références (posters)
 
 **FHB (blé)**  
 Ousmane Kone, S., Cadot, V., Vincke, D., Treier, S., Mascher, N., Maigniel, J‑P., Herrera, J. & Vermeulen, P. (2025). *Automated detection of Fusarium Head blight symptoms on wheat spikes using Deep Learning on field RGB imaging*. **Poster** — European Plant Phenomics Symposium (EPPS), Bonn, 16–19 septembre 2025.
 
-**BYDV (orge)**  
-(Adapté du poster correspondant ; compléter ici la liste d'auteurs exacte si nécessaire.) *Development of deep learning models to detect and quantify symptoms of Barley Yellow Dwarf Virus in barley using RGB images*. **Poster** — EPPS 2025.
-
 ---
 
-## 🗂️ Structure du dépôt
+## Contact
 
-```
-Posters-EPPS-2025/
-├── README.md
-├── assets/
-│   ├── vignette_fhb.png      # généré automatiquement si possible
-│   └── vignette_bydv.png
-└── posters/
-    ├── 01_FHB_ble/
-    │   └── EPPS_2025_FHB_Poster.pdf
-    └── 02_BYDV_orge/
-        └── EPPS_2025_BYDV_Poster.pdf
-```
-
----
-
-## 🤝 Contact
-
-- Auteur : **Seydina Ousmane Kone**  
-- Contact : *(ajouter votre e‑mail ou profil LinkedIn ici)*
-
----
-
-### Conseils d'usage
-- Ajoutez ce dépôt en **épingle** sur votre profil GitHub.  
-- Dans votre **CV** et sur **LinkedIn**, liez directement chaque PDF (ou la page du dépôt).  
-- Optionnel : créez deux **Releases** (p. ex. `FHB-poster-2025`, `BYDV-poster-2025`) pour obtenir des liens stables.
+- Auteur : **Seydina Ousmane KONE**  
+- Contact : *https://www.linkedin.com/in/seydina-ousmane-koné*
