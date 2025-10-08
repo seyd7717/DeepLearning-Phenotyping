@@ -11,7 +11,7 @@ pour la détection et la quantification de maladies des céréales.
 ## 🎯 Résumé des principaux résultats
 
 ### 🌾 Fusarium Head Blight (FHB) — blé  
-- Imagerie RGB de terrain et annotation d’épis (*sain* / *symptômes FHB*).  
+- Imagerie RGB et annotation d’épis (*sain* / *symptômes FHB*).  
 - Pipeline de détection et segmentation (type **YOLO**).  
 - Résultats bien corrélés aux notations expertes.  
 - Démonstrations possibles via interface web/mobile.
